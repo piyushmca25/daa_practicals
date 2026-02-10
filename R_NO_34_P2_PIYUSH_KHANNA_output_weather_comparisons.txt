@@ -1,5 +1,3 @@
-[ ]
-!cat R_NO_34_P2_PIYUSH_KHANNA_output_weather_comparisons.txt
 10 28
 20 109
 30 243
